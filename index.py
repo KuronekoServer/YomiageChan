@@ -30,7 +30,7 @@ def is_new_server(sid):
     return -1
 
 mypath = os.getcwd() + "/"
-TOKEN = "TOKEN"
+TOKEN = "💩しちゃった！どうすればいいのですか？！(は)"
 
 def exec_cmd(cmd):
     try:
